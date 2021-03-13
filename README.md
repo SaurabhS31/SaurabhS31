@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaurabhS31
-- 👀 I’m interested in C++/Python/SQL projects 
-- 🌱 I’m currently learning Algorithm designing, SQL and Teradata
+- 👀 I’m interested in C++/Python/mySQL projects 
+- 🌱 I’m currently learning Algorithm designing, mySQL and Teradata
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: sontakke@iitk.ac.in
 
